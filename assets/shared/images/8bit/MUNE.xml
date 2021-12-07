@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MUNE.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Achievement0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="Achievement.png" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="BEST PLAYER.png" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="MUSIC0000" x="640" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="UNMUSIC0000" x="1280" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="best player0000" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="ezbit.png" x="640" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="freepaly0000" x="640" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="freeplay.png" x="640" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="gold0000" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="hard bit.png" x="1280" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="install0000" x="0" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="install.png" x="0" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="iron0000" x="640" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="music.png" x="640" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="nowbit.png" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="rainbow0000" x="1280" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="story0000" x="0" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="storymode.png" x="0" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapfreeplay0000" x="640" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapfreeplay.png" x="640" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapstory0000" x="1280" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapstorymode.png" x="1280" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unAchievement0000" x="0" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unAchievement.png" x="0" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unfreeplay0000" x="640" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unfreeplay.png" x="640" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="uninstall0000" x="1280" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="uninstall.png" x="1280" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unmusic.png" x="1280" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unstory0000" x="0" y="1800" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unstorymode.png" x="0" y="1800" width="640" height="360" pivotX="0" pivotY="0"/>
+</TextureAtlas>

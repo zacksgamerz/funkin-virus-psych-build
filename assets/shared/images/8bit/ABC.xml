@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ABC.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zero0000" x="0" y="0" width="16" height="16"/>
+	<SubTexture name="one0000" x="16" y="0" width="16" height="16"/>
+	<SubTexture name="two0000" x="32" y="0" width="16" height="16"/>
+	<SubTexture name="three0000" x="48" y="0" width="16" height="16"/>
+	<SubTexture name="four0000" x="64" y="0" width="16" height="16"/>
+	<SubTexture name="five0000" x="80" y="0" width="16" height="16"/>
+	<SubTexture name="six0000" x="96" y="0" width="16" height="16"/>
+	<SubTexture name="seven0000" x="112" y="0" width="16" height="16"/>
+	<SubTexture name="eight0000" x="128" y="0" width="16" height="16"/>
+	<SubTexture name="nine0000" x="144" y="0" width="16" height="16"/>
+	<SubTexture name="A bold0000" x="160" y="0" width="16" height="16"/>
+	<SubTexture name="A capital0000" x="160" y="0" width="16" height="16"/>
+	<SubTexture name="AT0000" x="176" y="0" width="16" height="16"/>
+	<SubTexture name="B bold0000" x="192" y="0" width="16" height="16"/>
+	<SubTexture name="B capital0000" x="192" y="0" width="16" height="16"/>
+	<SubTexture name="C bold0000" x="208" y="0" width="16" height="16"/>
+	<SubTexture name="C capital0000" x="208" y="0" width="16" height="16"/>
+	<SubTexture name="D bold0000" x="224" y="0" width="16" height="16"/>
+	<SubTexture name="D capital0000" x="224" y="0" width="16" height="16"/>
+	<SubTexture name="E bold0000" x="240" y="0" width="16" height="16"/>
+	<SubTexture name="E capital0000" x="240" y="0" width="16" height="16"/>
+	<SubTexture name="F bold0000" x="0" y="16" width="16" height="16"/>
+	<SubTexture name="F capital0000" x="0" y="16" width="16" height="16"/>
+	<SubTexture name="G bold0000" x="16" y="16" width="16" height="16"/>
+	<SubTexture name="G capital0000" x="16" y="16" width="16" height="16"/>
+	<SubTexture name="H bold0000" x="32" y="16" width="16" height="16"/>
+	<SubTexture name="H capital0000" x="32" y="16" width="16" height="16"/>
+	<SubTexture name="I bold0000" x="48" y="16" width="16" height="16"/>
+	<SubTexture name="I capital0000" x="48" y="16" width="16" height="16"/>
+	<SubTexture name="J bold0000" x="64" y="16" width="16" height="16"/>
+	<SubTexture name="J capital0000" x="64" y="16" width="16" height="16"/>
+	<SubTexture name="K bold0000" x="80" y="16" width="16" height="16"/>
+	<SubTexture name="K capital0000" x="80" y="16" width="16" height="16"/>
+	<SubTexture name="L bold0000" x="96" y="16" width="16" height="16"/>
+	<SubTexture name="L capital0000" x="96" y="16" width="16" height="16"/>
+	<SubTexture name="M bold0000" x="112" y="16" width="16" height="16"/>
+	<SubTexture name="M capital0000" x="112" y="16" width="16" height="16"/>
+	<SubTexture name="N bold0000" x="128" y="16" width="16" height="16"/>
+	<SubTexture name="N capital0000" x="128" y="16" width="16" height="16"/>
+	<SubTexture name="O bold0000" x="144" y="16" width="16" height="16"/>
+	<SubTexture name="O capital0000" x="144" y="16" width="16" height="16"/>
+	<SubTexture name="P bold0000" x="160" y="16" width="16" height="16"/>
+	<SubTexture name="P capital0000" x="160" y="16" width="16" height="16"/>
+	<SubTexture name="Period0000" x="176" y="16" width="16" height="16"/>
+	<SubTexture name="Q bold0000" x="192" y="16" width="16" height="16"/>
+	<SubTexture name="Q capital0000" x="192" y="16" width="16" height="16"/>
+	<SubTexture name="R bold0000" x="208" y="16" width="16" height="16"/>
+	<SubTexture name="R capital0000" x="208" y="16" width="16" height="16"/>
+	<SubTexture name="S bold0000" x="80" y="0" width="16" height="16"/>
+	<SubTexture name="S capital0000" x="80" y="0" width="16" height="16"/>
+	<SubTexture name="T bold0000" x="224" y="16" width="16" height="16"/>
+	<SubTexture name="T capital0000" x="224" y="16" width="16" height="16"/>
+	<SubTexture name="U capital0000" x="240" y="16" width="16" height="16"/>
+	<SubTexture name="U bold0000" x="240" y="16" width="16" height="16"/>
+	<SubTexture name="V bold0000" x="0" y="32" width="16" height="16"/>
+	<SubTexture name="V capital0000" x="0" y="32" width="16" height="16"/>
+	<SubTexture name="W bold0000" x="16" y="32" width="16" height="16"/>
+	<SubTexture name="W capital0000" x="16" y="32" width="16" height="16"/>
+	<SubTexture name="X bold0000" x="32" y="32" width="16" height="16"/>
+	<SubTexture name="X capital0000" x="32" y="32" width="16" height="16"/>
+	<SubTexture name="Y bold0000" x="48" y="32" width="16" height="16"/>
+	<SubTexture name="Y capital0000" x="48" y="32" width="16" height="16"/>
+	<SubTexture name="Z bold0000" x="64" y="32" width="16" height="16"/>
+	<SubTexture name="Z capital0000" x="64" y="32" width="16" height="16"/>
+	<SubTexture name="asterisk0000" x="80" y="32" width="16" height="16"/>
+	<SubTexture name="exclamation mark0000" x="96" y="32" width="16" height="16"/>
+	<SubTexture name="hash mark0000" x="112" y="32" width="16" height="16"/>
+	<SubTexture name="left parenthesis0000" x="128" y="32" width="16" height="16"/>
+	<SubTexture name="question mark0000" x="144" y="32" width="16" height="16"/>
+	<SubTexture name="right parenthesis0000" x="160" y="32" width="16" height="16"/>
+	<SubTexture name="slash0000" x="176" y="32" width="16" height="16"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="them.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BIG SUS0000" x="0" y="0" width="112" height="44"/>
+	<SubTexture name="BLUSPY0000" x="112" y="0" width="112" height="44"/>
+	<SubTexture name="CDBZ0000" x="0" y="44" width="112" height="44"/>
+	<SubTexture name="DUNABD0000" x="112" y="44" width="112" height="44"/>
+	<SubTexture name="ECHO0000" x="0" y="88" width="112" height="44"/>
+	<SubTexture name="GAMER0000" x="112" y="88" width="112" height="44"/>
+	<SubTexture name="GGWP0000" x="0" y="132" width="112" height="44"/>
+	<SubTexture name="LOCK0000" x="112" y="132" width="112" height="44"/>
+	<SubTexture name="Only one coin0000" x="0" y="176" width="112" height="44"/>
+	<SubTexture name="TWTMF0000" x="112" y="176" width="112" height="44"/>
+	<SubTexture name="The perfect player0000" x="0" y="220" width="112" height="44"/>
+	<SubTexture name="bad ending0000" x="112" y="220" width="112" height="44"/>
+	<SubTexture name="firewall0000" x="0" y="264" width="112" height="44"/>
+	<SubTexture name="good ending0000" x="112" y="264" width="112" height="44"/>
+	<SubTexture name="new world0000" x="0" y="308" width="112" height="44"/>
+	<SubTexture name="pro player0000" x="112" y="308" width="112" height="44"/>
+	<SubTexture name="spike0000" x="0" y="352" width="112" height="44"/>
+	<SubTexture name="sus0000" x="112" y="352" width="112" height="44"/>
+	<SubTexture name="touhou bit0000" x="0" y="396" width="112" height="44"/>
+	<SubTexture name="wild west0000" x="112" y="396" width="112" height="44"/>
+</TextureAtlas>

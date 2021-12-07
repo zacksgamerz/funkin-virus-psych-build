@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="warning.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WARNING end0000" x="0" y="0" width="32" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="WARNING end0001" x="32" y="0" width="32" height="64"/>
+	<SubTexture name="WARNING end0002" x="64" y="0" width="32" height="64"/>
+	<SubTexture name="WARNING end0003" x="96" y="0" width="32" height="64"/>
+	<SubTexture name="WARNING end0004" x="0" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING end0005" x="32" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0000" x="64" y="64" width="32" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="WARNING loop0001" x="64" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0002" x="96" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0003" x="96" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0004" x="0" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0005" x="0" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0006" x="32" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0007" x="32" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0008" x="64" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0009" x="64" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0010" x="96" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0011" x="96" y="64" width="32" height="64"/>
+	<SubTexture name="WARNING loop0012" x="0" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0013" x="0" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0014" x="32" y="128" width="32" height="64"/>
+	<SubTexture name="WARNING loop0015" x="32" y="128" width="32" height="64"/>
+</TextureAtlas>

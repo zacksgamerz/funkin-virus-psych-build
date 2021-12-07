@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tap them.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Single cycle0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="left0000" x="640" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="menu0000" x="1280" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="paly0000" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="right0000" x="640" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="sp0000" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapleft0000" x="0" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapmenu0000" x="640" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapplay0000" x="1280" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapright0000" x="0" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tapsp0000" x="640" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unSingle cycle0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unleft0000" x="1280" y="1080" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unmenu0000" x="0" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unplay0000" x="640" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unright0000" x="1280" y="1440" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unsp0000" x="0" y="1800" width="640" height="360" pivotX="0" pivotY="0"/>
+</TextureAtlas>

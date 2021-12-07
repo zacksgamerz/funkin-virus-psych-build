@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Difficulty selection.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EZ0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="HARD0000" x="640" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="NOM0000" x="1280" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tap EZ0000" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tap EZ0001" x="0" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0002" x="640" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0003" x="640" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0004" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0005" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0006" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0007" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0008" x="640" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0009" x="640" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0010" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0011" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="tap EZ0012" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0013" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0014" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0015" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0016" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0017" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0018" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0019" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0020" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0021" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0022" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0023" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0024" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap EZ0025" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="tap HARD0000" x="1280" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tap HARD0001" x="1280" y="720" width="640" height="360"/>
+	<SubTexture name="tap HARD0002" x="0" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0003" x="0" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0004" x="640" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0005" x="640" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0006" x="1280" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0007" x="1280" y="1080" width="640" height="360"/>
+	<SubTexture name="tap HARD0008" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0009" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0010" x="640" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0011" x="640" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0012" x="1280" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0013" x="1280" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0014" x="0" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0015" x="0" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0016" x="640" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0017" x="640" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0018" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0019" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0020" x="1280" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0021" x="1280" y="1440" width="640" height="360"/>
+	<SubTexture name="tap HARD0022" x="1280" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0023" x="1280" y="1800" width="640" height="360"/>
+	<SubTexture name="tap HARD0024" x="0" y="2160" width="640" height="360"/>
+	<SubTexture name="tap HARD0025" x="0" y="2160" width="640" height="360"/>
+	<SubTexture name="tap NOM0000" x="640" y="2160" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="tap NOM0001" x="640" y="2160" width="640" height="360"/>
+	<SubTexture name="tap NOM0002" x="1280" y="2160" width="640" height="360"/>
+	<SubTexture name="tap NOM0003" x="1280" y="2160" width="640" height="360"/>
+	<SubTexture name="tap NOM0004" x="0" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0005" x="0" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0006" x="640" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0007" x="640" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0008" x="1280" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0009" x="1280" y="2520" width="640" height="360"/>
+	<SubTexture name="tap NOM0010" x="0" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0011" x="0" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0012" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0013" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0014" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0015" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0016" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0017" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0018" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0019" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0020" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0021" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0022" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0023" x="1280" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0024" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="tap NOM0025" x="640" y="2880" width="640" height="360"/>
+	<SubTexture name="unEZ0000" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unHARD0000" x="0" y="2160" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="unNOM0000" x="640" y="2880" width="640" height="360" pivotX="0" pivotY="0"/>
+</TextureAtlas>

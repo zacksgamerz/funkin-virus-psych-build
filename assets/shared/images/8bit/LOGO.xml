@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LOGO.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOGO0000" x="0" y="0" width="288" height="250"/>
+	<SubTexture name="LOGO0001" x="0" y="250" width="288" height="250"/>
+	<SubTexture name="LOGO0002" x="0" y="250" width="288" height="250"/>
+	<SubTexture name="LOGO0003" x="0" y="500" width="288" height="250"/>
+	<SubTexture name="LOGO0004" x="0" y="750" width="288" height="250"/>
+	<SubTexture name="LOGO0005" x="0" y="750" width="288" height="250"/>
+</TextureAtlas>

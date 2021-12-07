@@ -1,0 +1,413 @@
+{ "frames": {
+   "POWER ROOM 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 1.aseprite": {
+    "frame": { "x": 266, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 2.aseprite": {
+    "frame": { "x": 532, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 3.aseprite": {
+    "frame": { "x": 798, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 4.aseprite": {
+    "frame": { "x": 1064, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 5.aseprite": {
+    "frame": { "x": 1330, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 6.aseprite": {
+    "frame": { "x": 1596, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 7.aseprite": {
+    "frame": { "x": 1862, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 8.aseprite": {
+    "frame": { "x": 2128, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 9.aseprite": {
+    "frame": { "x": 2394, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 10.aseprite": {
+    "frame": { "x": 2660, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 500
+   },
+   "POWER ROOM 11.aseprite": {
+    "frame": { "x": 2926, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 12.aseprite": {
+    "frame": { "x": 3192, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 13.aseprite": {
+    "frame": { "x": 3458, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 14.aseprite": {
+    "frame": { "x": 3724, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 15.aseprite": {
+    "frame": { "x": 3990, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 16.aseprite": {
+    "frame": { "x": 4256, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 17.aseprite": {
+    "frame": { "x": 4522, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 18.aseprite": {
+    "frame": { "x": 4788, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 19.aseprite": {
+    "frame": { "x": 5054, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 20.aseprite": {
+    "frame": { "x": 5320, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 21.aseprite": {
+    "frame": { "x": 5586, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 22.aseprite": {
+    "frame": { "x": 5852, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 23.aseprite": {
+    "frame": { "x": 6118, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 24.aseprite": {
+    "frame": { "x": 6384, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 25.aseprite": {
+    "frame": { "x": 6650, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 26.aseprite": {
+    "frame": { "x": 6916, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 27.aseprite": {
+    "frame": { "x": 7182, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 200
+   },
+   "POWER ROOM 28.aseprite": {
+    "frame": { "x": 7448, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 29.aseprite": {
+    "frame": { "x": 7714, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 30.aseprite": {
+    "frame": { "x": 7980, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 31.aseprite": {
+    "frame": { "x": 8246, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 200
+   },
+   "POWER ROOM 32.aseprite": {
+    "frame": { "x": 8512, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 33.aseprite": {
+    "frame": { "x": 8778, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 34.aseprite": {
+    "frame": { "x": 9044, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 500
+   },
+   "POWER ROOM 35.aseprite": {
+    "frame": { "x": 9310, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 50
+   },
+   "POWER ROOM 36.aseprite": {
+    "frame": { "x": 9576, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 50
+   },
+   "POWER ROOM 37.aseprite": {
+    "frame": { "x": 9842, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 50
+   },
+   "POWER ROOM 38.aseprite": {
+    "frame": { "x": 10108, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 50
+   },
+   "POWER ROOM 39.aseprite": {
+    "frame": { "x": 10374, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 50
+   },
+   "POWER ROOM 40.aseprite": {
+    "frame": { "x": 10640, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 41.aseprite": {
+    "frame": { "x": 10906, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 20
+   },
+   "POWER ROOM 42.aseprite": {
+    "frame": { "x": 11172, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 20
+   },
+   "POWER ROOM 43.aseprite": {
+    "frame": { "x": 11438, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 20
+   },
+   "POWER ROOM 44.aseprite": {
+    "frame": { "x": 11704, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 20
+   },
+   "POWER ROOM 45.aseprite": {
+    "frame": { "x": 11970, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 20
+   },
+   "POWER ROOM 46.aseprite": {
+    "frame": { "x": 12236, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 47.aseprite": {
+    "frame": { "x": 12502, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 100
+   },
+   "POWER ROOM 48.aseprite": {
+    "frame": { "x": 12768, "y": 0, "w": 266, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 128 },
+    "sourceSize": { "w": 266, "h": 128 },
+    "duration": 500
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta7-x64",
+  "image": "POWER ROOM.png",
+  "format": "RGBA8888",
+  "size": { "w": 13034, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "图层 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "图层 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "图层 3", "opacity": 255, "blendMode": "normal" },
+   { "name": "图层 4", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

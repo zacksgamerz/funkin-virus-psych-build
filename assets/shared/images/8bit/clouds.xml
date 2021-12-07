@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clouds.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cloud0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="uncloud0000" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+</TextureAtlas>

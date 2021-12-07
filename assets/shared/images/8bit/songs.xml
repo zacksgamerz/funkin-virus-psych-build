@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songs.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DISCO0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="INTOXIC80000" x="640" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="QUICKDRAW0000" x="1280" y="0" width="640" height="360" pivotX="0" pivotY="-43"/>
+	<SubTexture name="BOOTED UP0000" x="0" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="EXERROR0000" x="640" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="ALTERBYTE0000" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="BIG SUS0000" x="0" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="SUS0000" x="640" y="720" width="640" height="360" pivotX="0" pivotY="0"/>
+</TextureAtlas>

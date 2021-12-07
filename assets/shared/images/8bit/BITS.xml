@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BITS.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="8B0000" x="0" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8B LOSING0000" x="32" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8B WINNING0000" x="64" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8S0000" x="96" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8S LOSING0000" x="0" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8S WINNING0000" x="32" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8V0000" x="64" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8V LOSING0000" x="96" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="8V WINNING0000" x="0" y="64" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF0000" x="32" y="64" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF LOSING0000" x="64" y="64" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF WINNING0000" x="96" y="64" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="MAD0000" x="0" y="96" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="MAD LOSING0000" x="32" y="96" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="MAD WINNING0000" x="64" y="96" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="fakebit0000" x="96" y="96" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="fakebit0001" x="96" y="96" width="32" height="32"/>
+	<SubTexture name="fakebit0002" x="0" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0003" x="0" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0004" x="32" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0005" x="32" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0006" x="64" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0007" x="96" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0008" x="96" y="128" width="32" height="32"/>
+	<SubTexture name="fakebit0009" x="0" y="160" width="32" height="32"/>
+	<SubTexture name="fakebit0010" x="0" y="160" width="32" height="32"/>
+</TextureAtlas>
